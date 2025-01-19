@@ -26,6 +26,10 @@ body {
   padding: 92px 50px 96px 50px;
 }
 
+.number, .email{
+  color: #000;
+}
+
 .logo-header {
   width: 148px;
   height: 105px;
